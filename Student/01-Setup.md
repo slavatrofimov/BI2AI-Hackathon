@@ -44,11 +44,6 @@ Log into the Azure Portal and ensure that you have the necessary permissions.
 1. Research the minimum level of permissions that you would need to create Azure resources that you will need in this hackathon.
 1. Research how to check your Power BI license and how to determine whether you have access to a Premium Capacity.
 
-## Success criteria
-
-1.  A restored version of the Adventure Works Data Warehouse
-1.  A Power BI application workspace with assigned premium capacity(Note:  This is the most expensive resource we use in this event.  It's a good idea to pause the capacity when you're not using it.)
-
 ## Learning resources
 
 |                                            |                                                                                                                                                       |
