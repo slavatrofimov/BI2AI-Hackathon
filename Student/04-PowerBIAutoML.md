@@ -15,6 +15,7 @@ The Adventure Works business users have loved all the additional insights they'v
 
 ## Hints
 
+1. To conserve time on this challenge be sure to limit training time to 15 minutes (or less).
 1.  Have a closer look at the columns in BikeBuyerTraining and Prospective Buyer.  What is different about these two tables?  Are there any differences that could be preventing you from using your model?
 
 ## Learning resources

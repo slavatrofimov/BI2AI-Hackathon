@@ -24,6 +24,7 @@ The data warehouse team has the request to add reviews information to the data w
     * Key phrases for all reviews with a sentiment below .5
 
 ## Hints
+* While Bike Reviews are stored in a blob, you have a URL with a Secure Access Signature that is sufficient to access the file anonymously (with no further authentication besides the URL). What data source connector in Power BI supports anonymous connections to data hosted on the Internet?
 *   Technically these cognitive services can be run in any order, because the language detection is not a required input.  Does providing the language alter the results?
 
 
