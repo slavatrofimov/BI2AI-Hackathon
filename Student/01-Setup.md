@@ -16,8 +16,7 @@ Ensure that you are able to access an Azure SQL Database that hosts the data war
 
 Ensure that you are able to access a blob containing product reviews, which will be the secondary source of your data.
 **Use the following blob URL with a corresponding Secure Access Signature:**
-http/bike%20reviews.csv?sp=r&st=2021-01-18T05:27:51Z&se=2021-01-18T13:27:51Z&sip=0.0.0.0-255.255.255.255&spr=https&sv=2019-12-12&sr=b&sig=mYaIb58KQTG1HzdaiXQqEbFOeSSfwhX5G17LMixMdrI%3Ds://sabi2ai.blob.core.windows.net/bi2ai
-
+https://sabi2ai.blob.core.windows.net/bi2ai/bike%20reviews.csv?sp=r&st=2021-01-20T19:43:24Z&se=2022-01-29T03:43:24Z&spr=https&sv=2019-12-12&sr=b&sig=DdfNr3nNeVs%2BRg3drf3ZYZeheFUTiYk8ZmyDg1AyDz0%3D
 
 ### Create a Power BI Workspace hosted on a Premium or Premium Per User Capacity
 You will need access to Power BI Premium. Please ensure that you either have access to a Premium Capacity or have a Power BI Premium Per User license.
