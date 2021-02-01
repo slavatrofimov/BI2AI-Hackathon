@@ -13,7 +13,7 @@ Adventure Works has been getting great business value out of the new model publi
 *   Since many of the reviews are very long, it would be great to extract some key details about the review from the larger text.
 *   Optional:  Adventure Works would like to classify the images in the products table.
 
-The data warehouse team has the request to add reviews information to the data warehouse on their feature backlog, so you'll have to acquire the file from the team that runs Adventure Works website.  The team has been kind enough to extract the data for you as a delimited file in blob storage.
+The data warehouse team has the request to add reviews information to the data warehouse on their feature backlog, so you'll have to acquire the file from the team that runs the Adventure Works website.  The team has been kind enough to extract the data for you as a delimited file in blob storage.
 
 ## Success Criteria
 1.  Extend the data flow to bring in data from the product reviews delimited file
