@@ -13,7 +13,7 @@ Adventure Works has been using a variety of reporting tools over the years, but 
 *   Sales
 *   Fiscal Calendar
 
-It is important to note that Adventure Works IT team had originally built their data warehouse on a "snowflake" schema.  While this design works for the enterprise the structure of the model separating product catalog into three tables, and customer into two tables is a source of confusion for business users.  It is desired that the new model in Power BI should simplify this structure and endeavor to represent Customer as a single entity and Product as a single entity.
+It is important to note that the Adventure Works IT team had originally built their data warehouse on a ["snowflake" schema](https://learning.oreilly.com/library/view/data-warehousing-fundamentals/9780471412540/9780471412540_the_snowflake_schema.html).  While this design works for the enterprise, the structure of the model separating the product catalog into three tables and customer information into two tables is a source of confusion for business users.  The new model in Power BI should simplify this structure and represent Customer as a single entity and Product as a single entity.
 
 
 ## Success criteria
@@ -25,8 +25,8 @@ It is important to note that Adventure Works IT team had originally built their 
 ## Hints
 
 1. Your data warehouse database has been pre-provisioned for you. If needed, reach out to your coach for connection strings and credentials.
-1. Is there anything interesting about the data types assigned to some fields?  Should you do anything about that?
-1. If you're having issues seeing the dataflow contents you may need to clear your Power BI Dataflow Credentials from Power BI Desktop's credential cache
+1. Is there anything interesting or concerning about the data types assigned to some fields?  Should you do anything about that?
+1. If you're having issues seeing the dataflow contents you may need to clear your Power BI Dataflow Credentials from Power BI Desktop's credential cache.
 
 
 ## Learning resources
@@ -35,6 +35,7 @@ It is important to note that Adventure Works IT team had originally built their 
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
 | Self-service data prep with dataflows | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview> |
-| Create and use dataflows                    | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use>                                |
+| Create and use dataflows | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use>  |
+| Design a data model in Power BI | <https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/> |
 
 [Next challenge (Working with Cognitive Services) >](./03-CognitiveServices.md)
