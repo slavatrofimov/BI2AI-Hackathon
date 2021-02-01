@@ -5,7 +5,7 @@
 1. [Challenge 3 - Working with Cognitive Services](./03-CognitiveServices.md) should be done successfully.
 
 ## Introduction
-The Adventure Works business users have loved all the additional insights they've been getting form the text analytics features added to the model.  They'd love to take their advanced analytics to the next level by trying to predict outcomes.  Adventure Works makes most of it's income off of selling big ticket items like bikes, in order to try and increase bike sales marketing has acquired a list of prospective customers.   The marketing team would like to assess which of these customers is most likely to buy a bike so they can send a targeted mailing to a select group of customers.
+The Adventure Works business users have loved all the additional insights they've been getting form the text analytics features added to the model.  They'd love to take their advanced analytics to the next level by trying to predict outcomes.  Adventure Works makes most of its income off of selling big ticket items like bikes, in order to try and increase bike sales marketing has acquired a list of prospective customers.   The marketing team would like to assess which of these customers is most likely to buy a bike so they can send a targeted mailing to a select group of customers.
 
 ## Success Criteria
 1.  Leverage the existing customer data to train a model to predict buying a bike
