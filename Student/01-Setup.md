@@ -36,7 +36,7 @@ Log into the Azure Portal and ensure that you have the necessary permissions.
 1. Access to an Azure SQL Server with the the AdventureWorksDW database.
 1. Access to the blob containing product review data.
 1. Access to an Azure Subscription.
-1. Accesss to Power BI Premium.
+1. Access to Power BI Premium.
 
 
 ## Hints
