@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Adventure works has been using a variety of reporting tools over the years, but is disillusioned with all of them.  Their CIO recently read a Gartner report on Power BI and is convinced they need to start doing all new report development on Power BI.  In order to prepare for the new report development, you've been tasked to setup a dataflow for some data in the warehouse. You will then use the entities in your dataflow to build Power BI models.  Presently they have a need to represent the following data in the model:
+Adventure Works has been using a variety of reporting tools over the years, but is disillusioned with all of them.  Their CIO recently read a Gartner report on Power BI and is convinced they need to start doing all new report development on Power BI.  In order to prepare for the new report development, you've been tasked to setup a dataflow for some data in the warehouse. You will then use the entities in your dataflow to build Power BI models.  Presently they have a need to represent the following data in the model:
 *   Products
 *   Customers
 *   Sales
