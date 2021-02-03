@@ -15,12 +15,16 @@ Adventure Works has been using a variety of reporting tools over the years, but 
 
 It is important to note that the Adventure Works IT team had originally built their data warehouse on a ["snowflake" schema](https://learning.oreilly.com/library/view/data-warehousing-fundamentals/9780471412540/9780471412540_the_snowflake_schema.html).  While this design works for the enterprise, the structure of the model separating the product catalog into three tables and customer information into two tables is a source of confusion for business users.  The new model in Power BI should simplify this structure and represent Customer as a single entity and Product as a single entity.
 
+Once the data has been extracted, prepared and modeled, Adventure Works sales team would like you to build a report to analyze sales and demonstrate how artificial intelligence can be used to understand key drivers of sales volume and identify anomalies in daily sales.
 
 ## Success criteria
-1.  A data flow built on AdventureWorksDW that includes the business entities in the requirements
-1.  A configured refresh schedule for the data flow
+1.  A dataflow built on AdventureWorksDW that includes the business entities in the requirements
+1.  A configured refresh schedule for the dataflow
 1.  A Power BI model which includes all business entities
 1.  A report that helps illustrate sales by product and sales by geography that can be filtered / sliced by year
+1.  A report visual that automatically identifies which product attributes and customer socioeconomic characteristics influence the sales amount to increase.
+1.  A report visual that automatically finds anomalies in daily sales amounts and helps to explain which geographic areas and products might be responsible for the anomaly.
+
 
 ## Hints
 
@@ -37,5 +41,7 @@ It is important to note that the Adventure Works IT team had originally built th
 | Self-service data prep with dataflows | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview> |
 | Create and use dataflows | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use>  |
 | Design a data model in Power BI | <https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/> |
+| Work with AI Visuals in Power BI| <https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/>|
+| Anomaly Detection in Power BI| <https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-anomaly-detection>|
 
 [Next challenge (Working with Cognitive Services) >](./03-CognitiveServices.md)
